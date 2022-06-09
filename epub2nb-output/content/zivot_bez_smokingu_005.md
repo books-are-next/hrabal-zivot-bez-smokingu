@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-Na vaně krále Čing-Čanga byla vyřezána tato slova:  
-Každého dne se úplně obnovuj a dělej to vždy znovu a znovu.
+_Na vaně krále Čing-Čanga byla vyřezána tato slova:  
+Každého dne se úplně obnovuj a dělej to vždy znovu a znovu._
 
-— Čínská moudrost
+> — Čínská moudrost
