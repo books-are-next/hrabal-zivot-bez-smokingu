@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-zivot-bez-smokingu-21e0917",
-  "revision": "21e0917",
+  "identifier": "hrabal-zivot-bez-smokingu-d2be9f1",
+  "revision": "d2be9f1",
   "readingOrder": [
     "promo.html",
     "zivot_bez_smokingu_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:54:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924058735
+    "date": "Fri Oct 07 2022 14:10:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151854461
   },
   "documents": [
     {
