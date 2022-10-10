@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-zivot-bez-smokingu-d2be9f1",
-  "revision": "d2be9f1",
+  "identifier": "hrabal-zivot-bez-smokingu-09b438a",
+  "revision": "09b438a",
   "readingOrder": [
     "promo.html",
     "zivot_bez_smokingu_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:10:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151854461
+    "date": "Mon Oct 10 2022 16:03:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417784809
   },
   "documents": [
     {
@@ -322,7 +322,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 138,
-      "chars": 918,
+      "chars": 919,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -342,7 +342,7 @@
   "totals": {
     "all": {
       "words": 52505,
-      "chars": 299668,
+      "chars": 299669,
       "ideas": 124
     },
     "chapters": {
